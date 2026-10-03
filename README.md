@@ -1,6 +1,6 @@
 # 🛍️ BazaarIQ: E-Commerce Customer Intelligence System
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app
+**Live app:** (https://bazariq.streamlit.app/)
 **Hackathon:** Data Science Final Hackathon (6 hours)
 
 BazaarIQ starts from a raw SQLite database and ends with a deployed Streamlit app that tells the business **how it is doing, which customers are about to leave, why, and what customers feel about their orders**.
