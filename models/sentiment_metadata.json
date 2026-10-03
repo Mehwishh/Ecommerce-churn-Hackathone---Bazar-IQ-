@@ -1,0 +1,15 @@
+{
+  "model": "TF-IDF + Logistic Regression",
+  "labels": {
+    "Negative": "rating 1-2",
+    "Neutral": "rating 3",
+    "Positive": "rating 4-5"
+  },
+  "test_metrics": {
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0
+  },
+  "sklearn_version": "1.8.0"
+}
